@@ -24,9 +24,61 @@
         }
     ],
     "heartbeat_config": {
-        "lastHeartbeatEpochMs": 1790821271133
+        "lastHeartbeatEpochMs": 1790823835067
     },
     "heartbeat_log": [
+        {
+            "timestampEpochMs": 1790823835067,
+            "success": true
+        },
+        {
+            "timestampEpochMs": 1790823476001,
+            "success": true
+        },
+        {
+            "timestampEpochMs": 1790823235026,
+            "success": true
+        },
+        {
+            "timestampEpochMs": 1790822875925,
+            "success": true
+        },
+        {
+            "timestampEpochMs": 1790822634970,
+            "success": true
+        },
+        {
+            "timestampEpochMs": 1790822275840,
+            "success": true
+        },
+        {
+            "timestampEpochMs": 1790822034935,
+            "success": true
+        },
+        {
+            "timestampEpochMs": 1790822029220,
+            "success": true
+        },
+        {
+            "timestampEpochMs": 1790821950163,
+            "success": true
+        },
+        {
+            "timestampEpochMs": 1790821823895,
+            "success": true
+        },
+        {
+            "timestampEpochMs": 1790821724023,
+            "success": true
+        },
+        {
+            "timestampEpochMs": 1790821675719,
+            "success": true
+        },
+        {
+            "timestampEpochMs": 1790821434881,
+            "success": true
+        },
         {
             "timestampEpochMs": 1790821271133,
             "success": true
@@ -53,43 +105,6 @@
         },
         {
             "timestampEpochMs": 1790819562745,
-            "success": true
-        },
-        {
-            "timestampEpochMs": 1790819385650,
-            "success": true
-        },
-        {
-            "timestampEpochMs": 1790819330803,
-            "success": true
-        },
-        {
-            "timestampEpochMs": 1790819203521,
-            "success": true
-        },
-        {
-            "timestampEpochMs": 1790818962732,
-            "success": true
-        },
-        {
-            "timestampEpochMs": 1788560892668,
-            "success": true
-        },
-        {
-            "timestampEpochMs": 1788559070896,
-            "success": true
-        },
-        {
-            "timestampEpochMs": 1788558980434,
-            "success": false,
-            "error": "com.inspiredandroid.kai.network.GeminiRateLimitExceededException"
-        },
-        {
-            "timestampEpochMs": 1788557150983,
-            "success": true
-        },
-        {
-            "timestampEpochMs": 1788555323592,
             "success": true
         }
     ],
@@ -893,6 +908,19 @@
                     "text": "/tmp/.kai_cmd_fe3bd4187bbd2434: line 1: adb: command not found"
                 }
             ]
+        }
+    ],
+    "execution_log": [
+        {
+            "timestampEpochMs": 1790823225853,
+            "tool": "storage_audit",
+            "state": "success",
+            "result": {
+                "status": "nominal",
+                "free_space_mb": 22638,
+                "total_space_mb": 112096,
+                "message": "Storage nominal: 22638MB free."
+            }
         }
     ]
 }
