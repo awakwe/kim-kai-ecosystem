@@ -24,9 +24,37 @@
         }
     ],
     "heartbeat_config": {
-        "lastHeartbeatEpochMs": 1790819385650
+        "lastHeartbeatEpochMs": 1790821271133
     },
     "heartbeat_log": [
+        {
+            "timestampEpochMs": 1790821271133,
+            "success": true
+        },
+        {
+            "timestampEpochMs": 1790821075651,
+            "success": true
+        },
+        {
+            "timestampEpochMs": 1790820898114,
+            "success": true
+        },
+        {
+            "timestampEpochMs": 1790820834804,
+            "success": true
+        },
+        {
+            "timestampEpochMs": 1790820657670,
+            "success": true
+        },
+        {
+            "timestampEpochMs": 1790820475545,
+            "success": true
+        },
+        {
+            "timestampEpochMs": 1790819562745,
+            "success": true
+        },
         {
             "timestampEpochMs": 1790819385650,
             "success": true
